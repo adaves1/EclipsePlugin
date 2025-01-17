@@ -1,5 +1,7 @@
 package com.adaves1;
 
+import com.adaves1.PluginManager;
+
 import java.io.File;
 
 public class EclipsePluginLoader {
