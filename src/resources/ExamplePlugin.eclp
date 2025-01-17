@@ -1,0 +1,7 @@
+public class ExamplePlugin {
+    public static void main(String[] args) {
+        System.out.println("Hello from ExamplePlugin!");
+    }
+}
+
+// This will be plugin-like and make changes to the OS
