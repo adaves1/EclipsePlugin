@@ -38,7 +38,7 @@
     <strong>Plugining... ⚡ </strong>
   <br>
   <br>
-  Plugin Loader
+  Plugin Loader for WindowsOS
   <br>
   <br>
   <a href="https://github.com/adaves1/EclipsePlugin/wiki">Documentation</a>
@@ -52,9 +52,11 @@
 
 ## Overview
 
+EclispePlugin is a plugin-loader for the WindowsOS. This project contributes to the x64 WindowsOS family. Since, WindowsOS is a harsh Operating System to be doing anything you would like to in the form of .exe applications, EclispePlugin fools Windows by making it belive that the .exe file is safe and can be run at not administrator level but the highest level of security, the SYSTEM level. This project is coded in Java for highest level of tools.
 
 ## Features
 
+- Can run Eclispe Plugin (.eclp) files.
 
 ## Installation
 
