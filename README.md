@@ -30,7 +30,7 @@
     
 <img src="https://img.shields.io/github/languages/code-size/adaves1/EclipsePlugin" alt="GitHub code size in bytes"/>
 
-<img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/adaves1/EclipsePlugin/badge?filter=java$&label=lines%20of%20code&color=blue" alt="GitHub lines of code"/>
+<img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/adaves1/EclipsePlugin/badge?filter=java$&label=Lines%20Of%20Java%20Code%20&color=blue" alt="GitHub lines of code"/>
 
 </p>
 
@@ -57,9 +57,14 @@ EclispePlugin is a plugin-loader for the WindowsOS. This project contributes to 
 ## Features
 
 - Can run Eclispe Plugin (.eclp) files.
+- Can make your WindowsOS a Virtual Machine Environment with no limits with only two conditions, it cannot be reversed and you cannot make another Virtual Machine.
+- Is very fast and efficent.
+- Compiles your .eclp Java code automatically.
+- Delimits Windows.
 
 ## Installation
 
+You will find our
 
 ## Usage
 
